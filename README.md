@@ -1,16 +1,13 @@
-## Hi there 👋
+Mikey Fennelly's open-source GitHub projects.
 
-<!--
-**mikeyfennelly1/mikeyfennelly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contains repositories that are related to research work, as well
+as projects that are created for the purpose of learning and college
+duties.
 
-Here are some ideas to get you started:
+Topics include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Papers
+2. Mathematics
+4. Programming Language Implementations and Theory
+5. Systems Engineering
+6. Distributed Systems
