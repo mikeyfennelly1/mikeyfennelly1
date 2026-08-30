@@ -11,3 +11,4 @@ Topics include:
 4. Programming Language Implementations and Theory
 5. Systems Engineering
 6. Distributed Systems
+7. Configurations for tools that I use (Emacs, Vim, zsh, nixpkgs)
